@@ -10,3 +10,5 @@
 9.component	ng generate component xyz
 10.uninstall =npm uninstall -g @angular/cli
 11. clean =npm cache clean  	
+
+https://www.youtube.com/watch?v=sqnSy2i-81E&list=PL8p2I9GklV478HYUm6RZAz1j7uz2LoGJt&index=5
