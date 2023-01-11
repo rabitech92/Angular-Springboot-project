@@ -1,0 +1,12 @@
+	link=https://www.knowledgehut.com/blog/web-development/install-angular-on-windows
+1.	Download node js
+2.	Check cmd =node -v
+3.	node — — version
+4.	npm -v
+5.	npm install -g @angular/cli 
+6.	ng version 
+7.	creat project =ng new projectName
+8.	to run=ng serve or ng serve --open 
+9.component	ng generate component xyz
+10.uninstall =npm uninstall -g @angular/cli
+11. clean =npm cache clean  	

@@ -1,0 +1,12 @@
+node -v
+npm install -g @angular/cli@latest
+or npm install -g @angular/cli
+ng --version
+nmp -v
+ng new projectName
+For creating component under certain folder
+ng g c employee/create-employee --skipTests=false --flat=true
+without creating any folder
+ng g c create-employee --skipTests=false --flat=true
+
+ng serve 
