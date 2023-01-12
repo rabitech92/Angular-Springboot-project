@@ -1,0 +1,13 @@
+.right{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 80px;
+    color: blueviolet;
+}
+
+.div .nav-search button{
+    color: blueviolet;
+    border: 1px solid blueviolet;
+    height: 39px;
+    
+}
