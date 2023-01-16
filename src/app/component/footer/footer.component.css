@@ -9,6 +9,7 @@ ul{
     bottom: 0;
     right: 0;
     left: 0;
+    height: 100px;
     background-color: #fff;
 }
 .footer ul{
@@ -19,4 +20,13 @@ ul{
 .footer ul li a{
     color: blueviolet;
     text-decoration: none;
+}
+ul{
+    background-color: aqua;
+    height: 40%;
+    width: 100%;
+    text-align: center;
+}
+.address{
+    text-align: center;
 }
